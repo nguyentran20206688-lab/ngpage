@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:43:00.370652",
+  "updated_at": "2026-11-26T17:43:16.746325",
   "users": [
     {
       "id": 999,
@@ -10,7 +10,7 @@
       "role": "admin",
       "status": "active",
       "tier": "unlimit",
-      "expires_at": null,
+      "expires_at": "2026-12-26T17:43:16.746325",
       "device_id": null,
       "note": "",
       "created_at": "2026-11-26T15:39:05.982549",
