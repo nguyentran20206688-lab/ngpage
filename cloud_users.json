@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-11-26T17:51:02.768656",
+  "version": 2,
+  "updated_at": "2026-11-26T18:06:41.879165",
   "users": [
     {
       "id": 999,
@@ -44,5 +44,39 @@
       "created_at": "2026-11-26T17:43:31.361282",
       "last_login": null
     }
-  ]
+  ],
+  "payment_config": {
+    "ngan_hang": "TCB",
+    "ngan_hang_ten": "Techcombank",
+    "so_tai_khoan": "8438586688",
+    "chu_tai_khoan": "TRAN VAN NGUYEN",
+    "zalo_ho_tro": "0843.858.688",
+    "telegram_ho_tro": "@ngpagesupport",
+    "gia_goi": {
+      "1m": {
+        "starter": 299000,
+        "pro": 499000,
+        "page200": 899000,
+        "unlimit": 899000
+      },
+      "6m": {
+        "starter": 1194000,
+        "pro": 1794000,
+        "page200": 2994000,
+        "unlimit": 2994000
+      },
+      "1y": {
+        "starter": 1500000,
+        "pro": 2388000,
+        "page200": 3588000,
+        "unlimit": 3588000
+      },
+      "lifetime": {
+        "starter": 1500000,
+        "pro": 2500000,
+        "unlimit": 3500000
+      }
+    },
+    "hotline_phu": "0985.476.688"
+  }
 }
