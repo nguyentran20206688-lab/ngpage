@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:31:19.537332",
+  "updated_at": "2026-11-26T17:31:43.694880",
   "users": [
     {
       "id": 999,
@@ -29,20 +29,6 @@
       "note": "",
       "created_at": "2026-11-26T15:39:05.982549",
       "last_login": "2026-11-26T17:23:46.734558"
-    },
-    {
-      "id": 1000,
-      "username": "khach_test",
-      "password_hash": "d248dd41780fbf208a74b9bce996c2d57c19a48959df14888341e058b4b57aa1",
-      "phone": "0988776655",
-      "role": "member",
-      "status": "active",
-      "tier": "starter",
-      "expires_at": "2027-05-25T17:30:19.728354",
-      "device_id": null,
-      "note": "Hạ xuống gói Starter 10 trang",
-      "created_at": "2026-11-26T17:30:19.728354",
-      "last_login": null
     }
   ]
 }
