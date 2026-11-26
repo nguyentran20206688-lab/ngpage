@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:30:19.728354",
+  "updated_at": "2026-11-26T17:30:21.672707",
   "users": [
     {
       "id": 999,
@@ -37,10 +37,10 @@
       "phone": "0988776655",
       "role": "member",
       "status": "active",
-      "tier": "pro",
+      "tier": "starter",
       "expires_at": "2027-05-25T17:30:19.728354",
       "device_id": null,
-      "note": "Khách hàng thử nghiệm gói Pro",
+      "note": "Hạ xuống gói Starter 10 trang",
       "created_at": "2026-11-26T17:30:19.728354",
       "last_login": null
     }
