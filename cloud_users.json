@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:40:23.446420",
+  "updated_at": "2026-11-26T17:42:40.399418",
   "users": [
     {
       "id": 999,
       "username": "admin",
-      "password_hash": "8265fbcb6f36da6a15c1e6a7e56260e383bfeff478c6d7def56b3bca73860931",
-      "phone": "08438586688",
+      "password_hash": "b41373b8d88157e03d7e8dfdcaa1ef3e46d81557cb7455cb0b5c30480faf7500",
+      "phone": "0985476688",
       "role": "admin",
       "status": "active",
       "tier": "unlimit",
