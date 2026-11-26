@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-11-26T18:07:25.248405",
+  "updated_at": "2026-11-26T18:39:16.002784",
   "users": [
     {
       "id": 999,
@@ -28,7 +28,7 @@
       "device_id": null,
       "note": "",
       "created_at": "2026-11-26T15:39:05.982549",
-      "last_login": "2026-11-26T18:07:25.246407"
+      "last_login": "2026-11-26T18:39:16.000642"
     },
     {
       "id": 1000,
@@ -37,7 +37,7 @@
       "phone": "",
       "role": "member",
       "status": "active",
-      "tier": "unlimit",
+      "tier": "starter",
       "expires_at": "2029-06-23T17:43:31.361282",
       "device_id": null,
       "note": "Tạo bởi Quản trị viên",
