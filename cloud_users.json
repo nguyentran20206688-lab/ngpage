@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:42:40.399418",
+  "updated_at": "2026-11-26T17:43:00.370652",
   "users": [
     {
       "id": 999,
@@ -20,7 +20,7 @@
       "id": 1,
       "username": "admin123",
       "password_hash": "8265fbcb6f36da6a15c1e6a7e56260e383bfeff478c6d7def56b3bca73860931",
-      "phone": "08438586688",
+      "phone": "0888806006",
       "role": "admin",
       "status": "active",
       "tier": "unlimit",
