@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-26T17:32:04.970531",
+  "updated_at": "2026-11-26T17:32:21.757653",
   "users": [
     {
       "id": 999,
@@ -29,6 +29,20 @@
       "note": "",
       "created_at": "2026-11-26T15:39:05.982549",
       "last_login": "2026-11-26T17:23:46.734558"
+    },
+    {
+      "id": 1000,
+      "username": "khach3",
+      "password_hash": "d939e00d319c5c9e78a3c0c829e4646239cd183c276e93dcaa1d31b06d6e5410",
+      "phone": "",
+      "role": "member",
+      "status": "active",
+      "tier": "starter",
+      "expires_at": "2027-11-26T17:32:21.756594",
+      "device_id": null,
+      "note": "Tạo bởi Quản trị viên",
+      "created_at": "2026-11-26T17:32:21.756594",
+      "last_login": null
     }
   ]
 }
