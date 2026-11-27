@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-11-27T11:46:20.818493",
+  "updated_at": "2026-11-27T12:04:59.097754",
   "users": [
     {
       "id": 999,
@@ -51,7 +51,7 @@
       "phone": "098577777",
       "role": "member",
       "status": "active",
-      "tier": "page200",
+      "tier": "unlimit",
       "expires_at": "2027-11-27T11:46:20.817937",
       "device_id": null,
       "note": "Tạo bởi Quản trị viên",
